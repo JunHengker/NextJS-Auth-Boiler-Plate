@@ -32,7 +32,7 @@ This is a modern auth starter template built with **Next.js**, **NextAuth.js**, 
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/JunHengker/NextJS-Auth-Boiler-Plate.git
    cd your-repo
    ```
 
