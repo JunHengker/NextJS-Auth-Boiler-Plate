@@ -1,5 +1,7 @@
 # Auth Starter – Prisma & NextAuth
 
+![image](https://github.com/user-attachments/assets/428b88ac-4e06-4fe6-87f5-72a0c6c66d27)
+
 This is a modern auth starter template built with **Next.js**, **NextAuth.js**, and **Prisma ORM**. It supports both **OAuth** and **Credentials** authentication with user registration, session tracking, and optional email confirmation. The codebase is clean, fully typed, and uses `zod` for schema validation.
 
 ---
